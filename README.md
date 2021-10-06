@@ -1,1 +1,1 @@
-test 1 for conflict.
+test 2 for conflict.
